@@ -49,13 +49,16 @@ Folders follow the teacher's example
 
 | Folder | File | What it holds |
 |---|---|---|
-| [project/](docs/project/) | [decision-index.md](docs/project/decision-index.md) | Every decision and the pending tasks |
+| [project/](docs/project/) | [project-brief.md](docs/project/project-brief.md) | Product, client, problem, goal, team and milestones |
+| | [decision-index.md](docs/project/decision-index.md) | Every decision and the pending tasks |
 | | [task-assignment-26-11.md](docs/project/task-assignment-26-11.md) | Tasks of 24/11/2026, in Vietnamese, due 26/11/2026 |
+| | [task-assignment-28-11.md](docs/project/task-assignment-28-11.md) | Fixes after the check of 28/11/2026, in Vietnamese, due 29/11/2026 |
 | [context/](docs/context/) | [cvca.md](docs/context/cvca.md) | Customer value chain: who pays whom and who gives what information |
 | | [context-diagram.md](docs/context/context-diagram.md) | System boundary and the flows that cross it |
 | [use-case/](docs/use-case/) | [use-case.md](docs/use-case/use-case.md) | Use case diagram and the list of all use cases |
 | | [sequence-index.md](docs/use-case/sequence-index.md) | Index of the 15 sequence diagrams (`sd-uc-01.md` … `sd-uc-15.md`) |
-| [architecture/](docs/architecture/) | [system-architecture.md](docs/architecture/system-architecture.md) | Parts of the system, data stores, connections to outside systems |
+| [architecture/](docs/architecture/) | [system-architecture.md](docs/architecture/system-architecture.md) | System requirements, functional and physical design, data stores, connections to outside systems |
+| | [adr/](docs/architecture/adr/) | One file per architecture decision (`adr-001-….md` …) |
 | [function-list/](docs/function-list/) | [scope.md](docs/function-list/scope.md) | W0: features, what is left out, data the system keeps or reads |
 | | [fr-list.md](docs/function-list/fr-list.md) | All functional requirements, priorities and work items |
 | | [cost.md](docs/function-list/cost.md) | Effort, cost and cash flow (kept apart from the FRs) |

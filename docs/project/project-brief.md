@@ -1,13 +1,12 @@
-# Project brief: Group H Library Core System
+# Project brief: Group H Library Core System - OPAC
 
-Lessons 1 and 2 (kick-off, project management, handover from the client). Every later document
-refers back to the names fixed here.
+Every later document refers back to the names fixed here. 
 
 | Field | Value |
 |---|---|
 | Product | Group H Library Core System, an add-on to the National Library of Vietnam's existing OPAC catalogue system ([opac.nlv.gov.vn](https://opac.nlv.gov.vn)) |
 | Client | National Library of Vietnam (Thư viện Quốc gia Việt Nam / NLV), under the Ministry of Culture, Sports and Tourism |
-| Client contact | Representative of the Automation and Cataloguing Divisions |
+| Client contact | Fanpage "Thư viện Quốc gia Việt Nam - National Library of Vietnam" |
 | Team | Group H (six members: Chi, Triệu, Linh, Hà, Hoa, Nhi) |
 | Course | DBIZ2 Digital Business Project II, followed by DBIZ3 (build) |
 
